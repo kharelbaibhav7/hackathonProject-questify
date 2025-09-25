@@ -1,0 +1,1 @@
+DB_URL = mongodb+srv://kharelbaibhav7_db_user:UZNi89LGDHu1KGNm@cluster0.u1pqpug.mongodb.net/walking_excluded?retryWrites=true&w=majority&appName=Cluster0
